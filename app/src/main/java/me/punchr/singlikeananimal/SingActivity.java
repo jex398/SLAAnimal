@@ -7,7 +7,7 @@ import android.view.MenuItem;
 
 
 public class SingActivity extends Activity {
-//asdasd
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
